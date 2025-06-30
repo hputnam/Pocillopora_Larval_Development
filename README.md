@@ -1,1 +1,3 @@
-# Pocillopora_Larval_Development
+# Pocillopora Larval Development
+
+_Pocillopora spp_ gametes and embryos were sampled in the new moon period of December 2024 (_P. verrucosa_ on 30 November 2024 and _P. tuahiniensis_ on 01 December 2024) and the full moon period of December 2024 (_P. grandis_ and _P. meandrina_ 17 December 2024). Samples were collected and preserved on the boat immediately after spawning and in the lab at every hour from 07:30 - 17:30 for morphological images (preserved in zfix) and molecular analysis (preserved in RNA DNA Shield). Samples were shipped to URI under CITES permit N°FR2498700029-E for analyses.
