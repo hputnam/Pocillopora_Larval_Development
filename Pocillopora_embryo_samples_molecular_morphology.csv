@@ -1,444 +1,462 @@
-﻿Sample.ID,Time,Date,Species,Assay,Location,,,,,,,,,,,,,,,,,,,,,,,,,,,
-001,6:15,20241130,P. verrucosa,RNA,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-002,6:15,20241130,P. verrucosa,RNA,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-003,6:15,20241130,P. verrucosa,RNA,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-004,6:15,20241130,P. verrucosa,RNA,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-005,6:15,20241130,P. verrucosa,RNA,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-006,6:15,20241130,P. verrucosa,Zfix,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-007,6:15,20241130,P. verrucosa,Zfix,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-008,6:15,20241130,P. verrucosa,Zfix,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-009,6:15,20241130,P. verrucosa,Zfix,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-010,6:15,20241130,P. verrucosa,Zfix,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-011,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-012,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-013,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-014,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-015,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-016,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-017,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-018,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-019,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-020,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-021,7:30,20241130,P. verrucosa,Zfix,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-022,7:30,20241130,P. verrucosa,Zfix,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-023,7:30,20241130,P. verrucosa,Zfix,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-024,7:30,20241130,P. verrucosa,RNA,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-025,7:30,20241130,P. verrucosa,RNA,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-026,7:30,20241130,P. verrucosa,RNA,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-027,7:30,20241130,P. verrucosa,RNA,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-028,7:30,20241130,P. verrucosa,RNA,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-029,8:30,20241130,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-030,8:30,20241130,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-031,8:30,20241130,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-032,8:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-033,8:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-034,8:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-035,8:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-036,8:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-037,9:30,20241130,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-038,9:30,20241130,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-039,9:30,20241130,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-040,9:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-041,9:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-042,9:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-043,9:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-044,9:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-045,10:30,20241130,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-046,10:30,20241130,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-047,10:30,20241130,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-048,10:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-049,10:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-050,10:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-051,10:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-052,10:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-053,11:30,20241130,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-054,11:30,20241130,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-055,11:30,20241130,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-056,11:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-057,11:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-058,11:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-059,11:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-060,11:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-061,12:30,20241130,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-062,12:30,20241130,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-063,12:30,20241130,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-064,12:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-065,12:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-066,12:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-067,12:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-068,12:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-069,13:30,20241130,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-070,13:30,20241130,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-071,13:30,20241130,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-072,13:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-073,13:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-074,13:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-075,13:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-076,13:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-077,14:30,20241130,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-078,14:30,20241130,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-079,14:30,20241130,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-080,14:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-081,14:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-082,14:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-083,14:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-084,14:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-085,15:30,20241130,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-086,15:30,20241130,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-087,15:30,20241130,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-088,15:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-089,15:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-090,15:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-091,15:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-092,15:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-093,16:30,20241130,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-094,16:30,20241130,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-095,16:30,20241130,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-096,16:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-097,16:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-098,16:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-099,16:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-100,16:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-101,17:30,20241130,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-102,17:30,20241130,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-103,17:30,20241130,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-104,17:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-105,17:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-106,17:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-107,17:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-108,17:30,20241130,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-109,6:10,20241201,P. verrucosa,Zfix,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-110,6:10,20241201,P. verrucosa,Zfix,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-111,6:10,20241201,P. verrucosa,Zfix,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-112,6:10,20241201,P. verrucosa,RNA,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-113,6:10,20241201,P. verrucosa,RNA,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-114,6:10,20241201,P. verrucosa,RNA,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-115,6:10,20241201,P. verrucosa,RNA,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-116,6:10,20241201,P. verrucosa,RNA,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-117,6:26,20241201,P. tuahiniensis,Zfix,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-118,6:26,20241201,P. tuahiniensis,Zfix,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-119,6:26,20241201,P. tuahiniensis,Zfix,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-120,6:26,20241201,P. tuahiniensis,RNA,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-121,6:26,20241201,P. tuahiniensis,RNA,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-122,6:26,20241201,P. tuahiniensis,RNA,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-123,6:26,20241201,P. tuahiniensis,RNA,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-124,6:26,20241201,P. tuahiniensis,RNA,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-125,7:30,20241201,P. tuahiniensis,Zfix,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-126,7:30,20241201,P. tuahiniensis,Zfix,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-127,7:30,20241201,P. tuahiniensis,Zfix,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-128,7:30,20241201,P. tuahiniensis,RNA,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-129,7:30,20241201,P. tuahiniensis,RNA,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-130,7:30,20241201,P. tuahiniensis,RNA,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-131,7:30,20241201,P. tuahiniensis,RNA,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-132,7:30,20241201,P. tuahiniensis,RNA,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-133,8:30,20241201,P. tuahiniensis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-134,8:30,20241201,P. tuahiniensis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-135,8:30,20241201,P. tuahiniensis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-136,8:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-137,8:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-138,8:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-139,8:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-140,8:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-141,9:30,20241201,P. tuahiniensis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-142,9:30,20241201,P. tuahiniensis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-143,9:30,20241201,P. tuahiniensis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-144,9:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-145,9:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-146,9:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-147,9:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-148,9:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-149,10:30,20241201,P. tuahiniensis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-150,10:30,20241201,P. tuahiniensis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-151,10:30,20241201,P. tuahiniensis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-152,10:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-153,10:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-154,10:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-155,10:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-156,10:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-157,11:30,20241201,P. tuahiniensis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-158,11:30,20241201,P. tuahiniensis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-159,11:30,20241201,P. tuahiniensis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-160,11:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-161,11:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-162,11:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-163,11:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-164,11:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-165,12:30,20241201,P. tuahiniensis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-166,12:30,20241201,P. tuahiniensis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-167,12:30,20241201,P. tuahiniensis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-168,12:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-169,12:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-170,12:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-171,12:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-172,12:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-173,13:30,20241201,P. tuahiniensis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-174,13:30,20241201,P. tuahiniensis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-175,13:30,20241201,P. tuahiniensis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-176,13:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-177,13:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-178,13:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-179,13:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-180,13:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-181,14:30,20241201,P. tuahiniensis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-182,14:30,20241201,P. tuahiniensis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-183,14:30,20241201,P. tuahiniensis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-184,14:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-185,14:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-186,14:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-187,14:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-188,14:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-189,15:30,20241201,P. tuahiniensis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-190,15:30,20241201,P. tuahiniensis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-191,15:30,20241201,P. tuahiniensis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-192,15:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-193,15:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-194,15:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-195,15:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-196,15:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-197,16:30,20241201,P. tuahiniensis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-198,16:30,20241201,P. tuahiniensis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-199,16:30,20241201,P. tuahiniensis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-200,16:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-201,16:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-202,16:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-203,16:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-204,16:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-205,17:30,20241201,P. tuahiniensis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-206,17:30,20241201,P. tuahiniensis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-207,17:30,20241201,P. tuahiniensis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-208,17:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-209,17:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-210,17:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-211,17:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-212,17:30,20241201,P. tuahiniensis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-213,17:35,20241201,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-214,17:35,20241201,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-215,17:35,20241201,P. verrucosa,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-216,17:35,20241201,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-217,17:35,20241201,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-218,17:35,20241201,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-219,17:35,20241201,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-220,17:35,20241201,P. verrucosa,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-221,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-222,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-223,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-224,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-225,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-226,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-227,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-228,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-229,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-230,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-231,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-232,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-233,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-234,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-235,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-236,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-237,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-238,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-239,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-240,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-241,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-242,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-243,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-244,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-245,6:10,20241217,P. grandis,Zfix,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-246,6:10,20241217,P. grandis,Zfix,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-247,6:10,20241217,P. grandis,Zfix,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-248,6:10,20241217,P. grandis,Zfix,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-249,6:10,20241217,P. grandis,Zfix,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-250,6:10,20241217,P. grandis,RNA,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-251,6:10,20241217,P. grandis,RNA,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-252,6:10,20241217,P. grandis,RNA,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-253,6:10,20241217,P. grandis,RNA,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-254,6:10,20241217,P. grandis,RNA,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-255,6:40,20241217,P. meandrina,Zfix,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-256,6:40,20241217,P. meandrina,Zfix,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-257,6:40,20241217,P. meandrina,Zfix,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-258,6:40,20241217,P. meandrina,Zfix,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-259,6:40,20241217,P. meandrina,Zfix,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-260,6:40,20241217,P. meandrina,RNA,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-261,6:40,20241217,P. meandrina,RNA,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-262,6:40,20241217,P. meandrina,RNA,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-263,6:40,20241217,P. meandrina,RNA,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-264,6:40,20241217,P. meandrina,RNA,field,,,,,,,,,,,,,,,,,,,,,,,,,,,
-265,7:30,20241217,P. grandis,Zfix,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-266,7:30,20241217,P. grandis,Zfix,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-267,7:30,20241217,P. grandis,Zfix,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-268,7:30,20241217,P. grandis,RNA,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-269,7:30,20241217,P. grandis,RNA,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-270,7:30,20241217,P. grandis,RNA,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-271,7:30,20241217,P. grandis,RNA,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-272,7:30,20241217,P. grandis,RNA,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-273,7:30,20241217,P. meandrina,Zfix,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-274,7:30,20241217,P. meandrina,Zfix,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-275,7:30,20241217,P. meandrina,Zfix,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-276,7:30,20241217,P. meandrina,RNA,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-277,7:30,20241217,P. meandrina,RNA,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-278,7:30,20241217,P. meandrina,RNA,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-279,7:30,20241217,P. meandrina,RNA,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-280,7:30,20241217,P. meandrina,RNA,bottles,,,,,,,,,,,,,,,,,,,,,,,,,,,
-281,8:30,20241217,P. grandis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-282,8:30,20241217,P. grandis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-283,8:30,20241217,P. grandis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-284,8:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-285,8:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-286,8:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-287,8:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-288,8:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-289,8:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-290,8:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-291,8:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-292,8:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-293,8:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-294,8:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-295,8:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-296,8:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-297,9:30,20241217,P. grandis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-298,9:30,20241217,P. grandis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-299,9:30,20241217,P. grandis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-300,9:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-301,9:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-302,9:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-303,9:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-304,9:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-305,9:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-306,9:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-307,9:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-308,9:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-309,9:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-310,9:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-311,9:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-312,9:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-313,10:30,20241217,P. grandis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-314,10:30,20241217,P. grandis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-315,10:30,20241217,P. grandis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-316,10:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-317,10:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-318,10:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-319,10:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320,10:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-321,10:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-322,10:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-323,10:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-324,10:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-325,10:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-326,10:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-327,10:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-328,10:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-329,11:30,20241217,P. grandis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-330,11:30,20241217,P. grandis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-331,11:30,20241217,P. grandis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-332,11:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-333,11:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-334,11:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-335,11:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-336,11:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-337,11:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-338,11:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-339,11:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-340,11:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-341,11:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-342,11:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-343,11:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-344,11:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-345,11:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346,12:30,20241217,P. grandis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-347,12:30,20241217,P. grandis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-348,12:30,20241217,P. grandis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-349,12:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-350,12:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-351,12:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-352,12:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-353,12:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-354,12:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-355,12:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-356,12:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-357,12:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-358,12:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-359,12:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-360,12:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-361,12:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-362,13:30,20241217,P. grandis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-363,13:30,20241217,P. grandis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-364,13:30,20241217,P. grandis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-365,13:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-366,13:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-367,13:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-368,13:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-369,13:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-370,13:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-371,13:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-372,13:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-373,13:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-374,13:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-375,13:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-376,13:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-377,13:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-378,14:30,20241217,P. grandis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-379,14:30,20241217,P. grandis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-380,14:30,20241217,P. grandis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-381,14:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-382,14:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-383,14:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-384,14:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-385,14:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-386,14:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-387,14:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-388,14:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-389,14:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-390,14:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-391,14:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-392,14:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-393,14:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-394,15:30,20241217,P. grandis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-395,15:30,20241217,P. grandis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-396,15:30,20241217,P. grandis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-397,15:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-398,15:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-399,15:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-400,15:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-401,15:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-402,15:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-403,15:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-404,15:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-405,15:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-406,15:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-407,15:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-408,15:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-409,15:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-410,16:30,20241217,P. grandis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-411,16:30,20241217,P. grandis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-412,16:30,20241217,P. grandis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-413,16:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-414,16:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-415,16:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-416,16:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-417,16:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-418,16:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-419,16:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-420,16:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-421,16:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-422,16:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-423,16:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-424,16:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-425,16:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-426,17:30,20241217,P. grandis,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-427,17:30,20241217,P. grandis,Zfix,squarical,,,,,,,,,,,,,,,,,,,,,,,,,,,
-428,17:30,20241217,P. grandis,Zfix,squarical,,,,,,,,,,,,,,,,,,,,,,,,,,,
-429,17:30,20241217,P. grandis,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-430,17:30,20241217,P. grandis,RNA,squarical,,,,,,,,,,,,,,,,,,,,,,,,,,,
-431,17:30,20241217,P. grandis,RNA,squarical,,,,,,,,,,,,,,,,,,,,,,,,,,,
-432,17:30,20241217,P. grandis,RNA,squarical,,,,,,,,,,,,,,,,,,,,,,,,,,,
-433,17:30,20241217,P. grandis,RNA,squarical,,,,,,,,,,,,,,,,,,,,,,,,,,,
-434,17:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-435,17:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-436,17:30,20241217,P. meandrina,Zfix,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-437,17:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-438,17:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-439,17:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-440,17:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-441,17:30,20241217,P. meandrina,RNA,cups in incubator,,,,,,,,,,,,,,,,,,,,,,,,,,,
-442,17:30,20241217,P. grandis,Zfix,squarical,,,,,,,,,,,,,,,,,,,,,,,,,,,
-443,17:30,20241217,P. grandis,RNA,squarical,,,,,,,,,,,,,,,,,,,,,,,,,,,
+﻿Sample.ID,Time,Date,Species,Assay,Location,Extraction.Link
+1,6:15,20241130,P. verrucosa,RNA,field,
+2,6:15,20241130,P. verrucosa,RNA,field,
+3,6:15,20241130,P. verrucosa,RNA,field,
+4,6:15,20241130,P. verrucosa,RNA,field,
+5,6:15,20241130,P. verrucosa,RNA,field,
+6,6:15,20241130,P. verrucosa,Zfix,field,NA
+7,6:15,20241130,P. verrucosa,Zfix,field,NA
+8,6:15,20241130,P. verrucosa,Zfix,field,NA
+9,6:15,20241130,P. verrucosa,Zfix,field,NA
+10,6:15,20241130,P. verrucosa,Zfix,field,NA
+11,NA,NA,NA,NA,NA,
+12,NA,NA,NA,NA,NA,
+13,NA,NA,NA,NA,NA,
+14,NA,NA,NA,NA,NA,
+15,NA,NA,NA,NA,NA,
+16,NA,NA,NA,NA,NA,
+17,NA,NA,NA,NA,NA,
+18,NA,NA,NA,NA,NA,
+19,NA,NA,NA,NA,NA,
+20,NA,NA,NA,NA,NA,
+21,7:30,20241130,P. verrucosa,Zfix,bottles,NA
+22,7:30,20241130,P. verrucosa,Zfix,bottles,NA
+23,7:30,20241130,P. verrucosa,Zfix,bottles,NA
+24,7:30,20241130,P. verrucosa,RNA,bottles,
+25,7:30,20241130,P. verrucosa,RNA,bottles,
+26,7:30,20241130,P. verrucosa,RNA,bottles,
+27,7:30,20241130,P. verrucosa,RNA,bottles,
+28,7:30,20241130,P. verrucosa,RNA,bottles,
+29,8:30,20241130,P. verrucosa,Zfix,cups in incubator,NA
+30,8:30,20241130,P. verrucosa,Zfix,cups in incubator,NA
+31,8:30,20241130,P. verrucosa,Zfix,cups in incubator,NA
+32,8:30,20241130,P. verrucosa,RNA,cups in incubator,
+33,8:30,20241130,P. verrucosa,RNA,cups in incubator,
+34,8:30,20241130,P. verrucosa,RNA,cups in incubator,
+35,8:30,20241130,P. verrucosa,RNA,cups in incubator,
+36,8:30,20241130,P. verrucosa,RNA,cups in incubator,
+37,9:30,20241130,P. verrucosa,Zfix,cups in incubator,NA
+38,9:30,20241130,P. verrucosa,Zfix,cups in incubator,NA
+39,9:30,20241130,P. verrucosa,Zfix,cups in incubator,NA
+40,9:30,20241130,P. verrucosa,RNA,cups in incubator,
+41,9:30,20241130,P. verrucosa,RNA,cups in incubator,
+42,9:30,20241130,P. verrucosa,RNA,cups in incubator,
+43,9:30,20241130,P. verrucosa,RNA,cups in incubator,
+44,9:30,20241130,P. verrucosa,RNA,cups in incubator,
+45,10:30,20241130,P. verrucosa,Zfix,cups in incubator,NA
+46,10:30,20241130,P. verrucosa,Zfix,cups in incubator,NA
+47,10:30,20241130,P. verrucosa,Zfix,cups in incubator,NA
+48,10:30,20241130,P. verrucosa,RNA,cups in incubator,
+49,10:30,20241130,P. verrucosa,RNA,cups in incubator,
+50,10:30,20241130,P. verrucosa,RNA,cups in incubator,
+51,10:30,20241130,P. verrucosa,RNA,cups in incubator,
+52,10:30,20241130,P. verrucosa,RNA,cups in incubator,
+53,11:30,20241130,P. verrucosa,Zfix,cups in incubator,NA
+54,11:30,20241130,P. verrucosa,Zfix,cups in incubator,NA
+55,11:30,20241130,P. verrucosa,Zfix,cups in incubator,NA
+56,11:30,20241130,P. verrucosa,RNA,cups in incubator,
+57,11:30,20241130,P. verrucosa,RNA,cups in incubator,
+58,11:30,20241130,P. verrucosa,RNA,cups in incubator,
+59,11:30,20241130,P. verrucosa,RNA,cups in incubator,
+60,11:30,20241130,P. verrucosa,RNA,cups in incubator,
+61,12:30,20241130,P. verrucosa,Zfix,cups in incubator,NA
+62,12:30,20241130,P. verrucosa,Zfix,cups in incubator,NA
+63,12:30,20241130,P. verrucosa,Zfix,cups in incubator,NA
+64,12:30,20241130,P. verrucosa,RNA,cups in incubator,
+65,12:30,20241130,P. verrucosa,RNA,cups in incubator,
+66,12:30,20241130,P. verrucosa,RNA,cups in incubator,
+67,12:30,20241130,P. verrucosa,RNA,cups in incubator,
+68,12:30,20241130,P. verrucosa,RNA,cups in incubator,
+69,13:30,20241130,P. verrucosa,Zfix,cups in incubator,NA
+70,13:30,20241130,P. verrucosa,Zfix,cups in incubator,NA
+71,13:30,20241130,P. verrucosa,Zfix,cups in incubator,NA
+72,13:30,20241130,P. verrucosa,RNA,cups in incubator,
+73,13:30,20241130,P. verrucosa,RNA,cups in incubator,
+74,13:30,20241130,P. verrucosa,RNA,cups in incubator,
+75,13:30,20241130,P. verrucosa,RNA,cups in incubator,
+76,13:30,20241130,P. verrucosa,RNA,cups in incubator,
+77,14:30,20241130,P. verrucosa,Zfix,cups in incubator,NA
+78,14:30,20241130,P. verrucosa,Zfix,cups in incubator,NA
+79,14:30,20241130,P. verrucosa,Zfix,cups in incubator,NA
+80,14:30,20241130,P. verrucosa,RNA,cups in incubator,
+81,14:30,20241130,P. verrucosa,RNA,cups in incubator,
+82,14:30,20241130,P. verrucosa,RNA,cups in incubator,
+83,14:30,20241130,P. verrucosa,RNA,cups in incubator,
+84,14:30,20241130,P. verrucosa,RNA,cups in incubator,
+85,15:30,20241130,P. verrucosa,Zfix,cups in incubator,NA
+86,15:30,20241130,P. verrucosa,Zfix,cups in incubator,NA
+87,15:30,20241130,P. verrucosa,Zfix,cups in incubator,NA
+88,15:30,20241130,P. verrucosa,RNA,cups in incubator,
+89,15:30,20241130,P. verrucosa,RNA,cups in incubator,
+90,15:30,20241130,P. verrucosa,RNA,cups in incubator,
+91,15:30,20241130,P. verrucosa,RNA,cups in incubator,
+92,15:30,20241130,P. verrucosa,RNA,cups in incubator,
+93,16:30,20241130,P. verrucosa,Zfix,cups in incubator,NA
+94,16:30,20241130,P. verrucosa,Zfix,cups in incubator,NA
+95,16:30,20241130,P. verrucosa,Zfix,cups in incubator,NA
+96,16:30,20241130,P. verrucosa,RNA,cups in incubator,
+97,16:30,20241130,P. verrucosa,RNA,cups in incubator,
+98,16:30,20241130,P. verrucosa,RNA,cups in incubator,
+99,16:30,20241130,P. verrucosa,RNA,cups in incubator,
+100,16:30,20241130,P. verrucosa,RNA,cups in incubator,
+101,17:30,20241130,P. verrucosa,Zfix,cups in incubator,NA
+102,17:30,20241130,P. verrucosa,Zfix,cups in incubator,NA
+103,17:30,20241130,P. verrucosa,Zfix,cups in incubator,NA
+104,17:30,20241130,P. verrucosa,RNA,cups in incubator,
+105,17:30,20241130,P. verrucosa,RNA,cups in incubator,
+106,17:30,20241130,P. verrucosa,RNA,cups in incubator,
+107,17:30,20241130,P. verrucosa,RNA,cups in incubator,
+108,17:30,20241130,P. verrucosa,RNA,cups in incubator,
+109,6:10,20241201,P. verrucosa,Zfix,field,NA
+110,6:10,20241201,P. verrucosa,Zfix,field,NA
+111,6:10,20241201,P. verrucosa,Zfix,field,NA
+112,6:10,20241201,P. verrucosa,RNA,field,
+113,6:10,20241201,P. verrucosa,RNA,field,
+114,6:10,20241201,P. verrucosa,RNA,field,
+115,6:10,20241201,P. verrucosa,RNA,field,
+116,6:10,20241201,P. verrucosa,RNA,field,
+117,6:26,20241201,P. tuahiniensis,Zfix,field,NA
+118,6:26,20241201,P. tuahiniensis,Zfix,field,NA
+119,6:26,20241201,P. tuahiniensis,Zfix,field,NA
+120,6:26,20241201,P. tuahiniensis,RNA,field,
+121,6:26,20241201,P. tuahiniensis,RNA,field,
+122,6:26,20241201,P. tuahiniensis,RNA,field,
+123,6:26,20241201,P. tuahiniensis,RNA,field,
+124,6:26,20241201,P. tuahiniensis,RNA,field,
+125,7:30,20241201,P. tuahiniensis,Zfix,bottles,NA
+126,7:30,20241201,P. tuahiniensis,Zfix,bottles,NA
+127,7:30,20241201,P. tuahiniensis,Zfix,bottles,NA
+128,7:30,20241201,P. tuahiniensis,RNA,bottles,
+129,7:30,20241201,P. tuahiniensis,RNA,bottles,
+130,7:30,20241201,P. tuahiniensis,RNA,bottles,
+131,7:30,20241201,P. tuahiniensis,RNA,bottles,
+132,7:30,20241201,P. tuahiniensis,RNA,bottles,
+133,8:30,20241201,P. tuahiniensis,Zfix,cups in incubator,NA
+134,8:30,20241201,P. tuahiniensis,Zfix,cups in incubator,NA
+135,8:30,20241201,P. tuahiniensis,Zfix,cups in incubator,NA
+136,8:30,20241201,P. tuahiniensis,RNA,cups in incubator,
+137,8:30,20241201,P. tuahiniensis,RNA,cups in incubator,
+138,8:30,20241201,P. tuahiniensis,RNA,cups in incubator,
+139,8:30,20241201,P. tuahiniensis,RNA,cups in incubator,
+140,8:30,20241201,P. tuahiniensis,RNA,cups in incubator,
+141,9:30,20241201,P. tuahiniensis,Zfix,cups in incubator,NA
+142,9:30,20241201,P. tuahiniensis,Zfix,cups in incubator,NA
+143,9:30,20241201,P. tuahiniensis,Zfix,cups in incubator,NA
+144,9:30,20241201,P. tuahiniensis,RNA,cups in incubator,
+145,9:30,20241201,P. tuahiniensis,RNA,cups in incubator,https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-06-16-PocRAPID-DNA-RNA-Extractions.md
+146,9:30,20241201,P. tuahiniensis,RNA,cups in incubator,https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-06-16-PocRAPID-DNA-RNA-Extractions.md
+147,9:30,20241201,P. tuahiniensis,RNA,cups in incubator,https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-06-16-PocRAPID-DNA-RNA-Extractions.md
+148,9:30,20241201,P. tuahiniensis,RNA,cups in incubator,https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-06-16-PocRAPID-DNA-RNA-Extractions.md
+149,10:30,20241201,P. tuahiniensis,Zfix,cups in incubator,NA
+150,10:30,20241201,P. tuahiniensis,Zfix,cups in incubator,NA
+151,10:30,20241201,P. tuahiniensis,Zfix,cups in incubator,NA
+152,10:30,20241201,P. tuahiniensis,RNA,cups in incubator,https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-06-16-PocRAPID-DNA-RNA-Extractions.md
+153,10:30,20241201,P. tuahiniensis,RNA,cups in incubator,https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-06-16-PocRAPID-DNA-RNA-Extractions.md
+154,10:30,20241201,P. tuahiniensis,RNA,cups in incubator,https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-06-17-PocRAPID-DNA-RNA-Extractions.md
+155,10:30,20241201,P. tuahiniensis,RNA,cups in incubator,https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-06-17-PocRAPID-DNA-RNA-Extractions.md
+156,10:30,20241201,P. tuahiniensis,RNA,cups in incubator,https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-06-17-PocRAPID-DNA-RNA-Extractions.md
+157,11:30,20241201,P. tuahiniensis,Zfix,cups in incubator,NA
+158,11:30,20241201,P. tuahiniensis,Zfix,cups in incubator,NA
+159,11:30,20241201,P. tuahiniensis,Zfix,cups in incubator,NA
+160,11:30,20241201,P. tuahiniensis,RNA,cups in incubator,https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-06-17-PocRAPID-DNA-RNA-Extractions.md
+161,11:30,20241201,P. tuahiniensis,RNA,cups in incubator,https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-06-17-PocRAPID-DNA-RNA-Extractions.md
+162,11:30,20241201,P. tuahiniensis,RNA,cups in incubator,https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-06-17-PocRAPID-DNA-RNA-Extractions.md
+163,11:30,20241201,P. tuahiniensis,RNA,cups in incubator,https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-06-18-PocRAPID-DNA-RNA-Extractions.md
+164,11:30,20241201,P. tuahiniensis,RNA,cups in incubator,https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-06-18-PocRAPID-DNA-RNA-Extractions.md
+165,12:30,20241201,P. tuahiniensis,Zfix,cups in incubator,NA
+166,12:30,20241201,P. tuahiniensis,Zfix,cups in incubator,NA
+167,12:30,20241201,P. tuahiniensis,Zfix,cups in incubator,NA
+168,12:30,20241201,P. tuahiniensis,RNA,cups in incubator,https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-06-18-PocRAPID-DNA-RNA-Extractions.md
+169,12:30,20241201,P. tuahiniensis,RNA,cups in incubator,https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-06-18-PocRAPID-DNA-RNA-Extractions.md
+170,12:30,20241201,P. tuahiniensis,RNA,cups in incubator,https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-06-18-PocRAPID-DNA-RNA-Extractions.md
+171,12:30,20241201,P. tuahiniensis,RNA,cups in incubator,https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-06-18-PocRAPID-DNA-RNA-Extractions.md
+172,12:30,20241201,P. tuahiniensis,RNA,cups in incubator,https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-06-19-PocRAPID-DNA-RNA-Extractions.md
+173,13:30,20241201,P. tuahiniensis,Zfix,cups in incubator,NA
+174,13:30,20241201,P. tuahiniensis,Zfix,cups in incubator,NA
+175,13:30,20241201,P. tuahiniensis,Zfix,cups in incubator,NA
+176,13:30,20241201,P. tuahiniensis,RNA,cups in incubator,https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-06-19-PocRAPID-DNA-RNA-Extractions.md
+177,13:30,20241201,P. tuahiniensis,RNA,cups in incubator,https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-06-19-PocRAPID-DNA-RNA-Extractions.md
+178,13:30,20241201,P. tuahiniensis,RNA,cups in incubator,https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-06-19-PocRAPID-DNA-RNA-Extractions.md
+179,13:30,20241201,P. tuahiniensis,RNA,cups in incubator,https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-06-19-PocRAPID-DNA-RNA-Extractions.md
+180,13:30,20241201,P. tuahiniensis,RNA,cups in incubator,https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-06-19-PocRAPID-DNA-RNA-Extractions.md
+181,14:30,20241201,P. tuahiniensis,Zfix,cups in incubator,NA
+182,14:30,20241201,P. tuahiniensis,Zfix,cups in incubator,NA
+183,14:30,20241201,P. tuahiniensis,Zfix,cups in incubator,NA
+184,14:30,20241201,P. tuahiniensis,RNA,cups in incubator,https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-06-23-PocRAPID-DNA-RNA-Extractions.md
+185,14:30,20241201,P. tuahiniensis,RNA,cups in incubator,https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-06-23-PocRAPID-DNA-RNA-Extractions.md
+186,14:30,20241201,P. tuahiniensis,RNA,cups in incubator,https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-06-23-PocRAPID-DNA-RNA-Extractions.md
+187,14:30,20241201,P. tuahiniensis,RNA,cups in incubator,https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-06-23-PocRAPID-DNA-RNA-Extractions.md
+188,14:30,20241201,P. tuahiniensis,RNA,cups in incubator,https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-06-23-PocRAPID-DNA-RNA-Extractions.md
+189,15:30,20241201,P. tuahiniensis,Zfix,cups in incubator,NA
+190,15:30,20241201,P. tuahiniensis,Zfix,cups in incubator,NA
+191,15:30,20241201,P. tuahiniensis,Zfix,cups in incubator,NA
+192,15:30,20241201,P. tuahiniensis,RNA,cups in incubator,https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-06-23-PocRAPID-DNA-RNA-Extractions.md
+193,15:30,20241201,P. tuahiniensis,RNA,cups in incubator,
+194,15:30,20241201,P. tuahiniensis,RNA,cups in incubator,
+195,15:30,20241201,P. tuahiniensis,RNA,cups in incubator,
+196,15:30,20241201,P. tuahiniensis,RNA,cups in incubator,
+197,16:30,20241201,P. tuahiniensis,Zfix,cups in incubator,NA
+198,16:30,20241201,P. tuahiniensis,Zfix,cups in incubator,NA
+199,16:30,20241201,P. tuahiniensis,Zfix,cups in incubator,NA
+200,16:30,20241201,P. tuahiniensis,RNA,cups in incubator,
+201,16:30,20241201,P. tuahiniensis,RNA,cups in incubator,
+202,16:30,20241201,P. tuahiniensis,RNA,cups in incubator,
+203,16:30,20241201,P. tuahiniensis,RNA,cups in incubator,
+204,16:30,20241201,P. tuahiniensis,RNA,cups in incubator,
+205,17:30,20241201,P. tuahiniensis,Zfix,cups in incubator,NA
+206,17:30,20241201,P. tuahiniensis,Zfix,cups in incubator,NA
+207,17:30,20241201,P. tuahiniensis,Zfix,cups in incubator,NA
+208,17:30,20241201,P. tuahiniensis,RNA,cups in incubator,
+209,17:30,20241201,P. tuahiniensis,RNA,cups in incubator,
+210,17:30,20241201,P. tuahiniensis,RNA,cups in incubator,
+211,17:30,20241201,P. tuahiniensis,RNA,cups in incubator,
+212,17:30,20241201,P. tuahiniensis,RNA,cups in incubator,
+213,17:35,20241201,P. verrucosa,Zfix,cups in incubator,NA
+214,17:35,20241201,P. verrucosa,Zfix,cups in incubator,NA
+215,17:35,20241201,P. verrucosa,Zfix,cups in incubator,NA
+216,17:35,20241201,P. verrucosa,RNA,cups in incubator,
+217,17:35,20241201,P. verrucosa,RNA,cups in incubator,
+218,17:35,20241201,P. verrucosa,RNA,cups in incubator,
+219,17:35,20241201,P. verrucosa,RNA,cups in incubator,
+220,17:35,20241201,P. verrucosa,RNA,cups in incubator,
+221,NA,NA,NA,NA,NA,
+222,NA,NA,NA,NA,NA,
+223,NA,NA,NA,NA,NA,
+224,NA,NA,NA,NA,NA,
+225,NA,NA,NA,NA,NA,
+226,NA,NA,NA,NA,NA,
+227,NA,NA,NA,NA,NA,
+228,NA,NA,NA,NA,NA,
+229,NA,NA,NA,NA,NA,
+230,NA,NA,NA,NA,NA,
+231,NA,NA,NA,NA,NA,
+232,NA,NA,NA,NA,NA,
+233,NA,NA,NA,NA,NA,
+234,NA,NA,NA,NA,NA,
+235,NA,NA,NA,NA,NA,
+236,NA,NA,NA,NA,NA,
+237,NA,NA,NA,NA,NA,
+238,NA,NA,NA,NA,NA,
+239,NA,NA,NA,NA,NA,
+240,NA,NA,NA,NA,NA,
+241,NA,NA,NA,NA,NA,
+242,NA,NA,NA,NA,NA,
+243,NA,NA,NA,NA,NA,
+244,NA,NA,NA,NA,NA,
+245,6:10,20241217,P. grandis,Zfix,field,NA
+246,6:10,20241217,P. grandis,Zfix,field,NA
+247,6:10,20241217,P. grandis,Zfix,field,NA
+248,6:10,20241217,P. grandis,Zfix,field,NA
+249,6:10,20241217,P. grandis,Zfix,field,NA
+250,6:10,20241217,P. grandis,RNA,field,
+251,6:10,20241217,P. grandis,RNA,field,
+252,6:10,20241217,P. grandis,RNA,field,
+253,6:10,20241217,P. grandis,RNA,field,
+254,6:10,20241217,P. grandis,RNA,field,
+255,6:40,20241217,P. meandrina,Zfix,field,NA
+256,6:40,20241217,P. meandrina,Zfix,field,NA
+257,6:40,20241217,P. meandrina,Zfix,field,NA
+258,6:40,20241217,P. meandrina,Zfix,field,NA
+259,6:40,20241217,P. meandrina,Zfix,field,NA
+260,6:40,20241217,P. meandrina,RNA,field,
+261,6:40,20241217,P. meandrina,RNA,field,
+262,6:40,20241217,P. meandrina,RNA,field,
+263,6:40,20241217,P. meandrina,RNA,field,
+264,6:40,20241217,P. meandrina,RNA,field,
+265,7:30,20241217,P. grandis,Zfix,bottles,NA
+266,7:30,20241217,P. grandis,Zfix,bottles,NA
+267,7:30,20241217,P. grandis,Zfix,bottles,NA
+268,7:30,20241217,P. grandis,RNA,bottles,
+269,7:30,20241217,P. grandis,RNA,bottles,
+270,7:30,20241217,P. grandis,RNA,bottles,
+271,7:30,20241217,P. grandis,RNA,bottles,
+272,7:30,20241217,P. grandis,RNA,bottles,
+273,7:30,20241217,P. meandrina,Zfix,bottles,NA
+274,7:30,20241217,P. meandrina,Zfix,bottles,NA
+275,7:30,20241217,P. meandrina,Zfix,bottles,NA
+276,7:30,20241217,P. meandrina,RNA,bottles,
+277,7:30,20241217,P. meandrina,RNA,bottles,
+278,7:30,20241217,P. meandrina,RNA,bottles,
+279,7:30,20241217,P. meandrina,RNA,bottles,
+280,7:30,20241217,P. meandrina,RNA,bottles,
+281,8:30,20241217,P. grandis,Zfix,cups in incubator,NA
+282,8:30,20241217,P. grandis,Zfix,cups in incubator,NA
+283,8:30,20241217,P. grandis,Zfix,cups in incubator,NA
+284,8:30,20241217,P. grandis,RNA,cups in incubator,
+285,8:30,20241217,P. grandis,RNA,cups in incubator,
+286,8:30,20241217,P. grandis,RNA,cups in incubator,
+287,8:30,20241217,P. grandis,RNA,cups in incubator,
+288,8:30,20241217,P. grandis,RNA,cups in incubator,
+289,8:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+290,8:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+291,8:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+292,8:30,20241217,P. meandrina,RNA,cups in incubator,
+293,8:30,20241217,P. meandrina,RNA,cups in incubator,
+294,8:30,20241217,P. meandrina,RNA,cups in incubator,
+295,8:30,20241217,P. meandrina,RNA,cups in incubator,
+296,8:30,20241217,P. meandrina,RNA,cups in incubator,
+297,9:30,20241217,P. grandis,Zfix,cups in incubator,NA
+298,9:30,20241217,P. grandis,Zfix,cups in incubator,NA
+299,9:30,20241217,P. grandis,Zfix,cups in incubator,NA
+300,9:30,20241217,P. grandis,RNA,cups in incubator,
+301,9:30,20241217,P. grandis,RNA,cups in incubator,
+302,9:30,20241217,P. grandis,RNA,cups in incubator,
+303,9:30,20241217,P. grandis,RNA,cups in incubator,
+304,9:30,20241217,P. grandis,RNA,cups in incubator,
+305,9:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+306,9:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+307,9:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+308,9:30,20241217,P. meandrina,RNA,cups in incubator,
+309,9:30,20241217,P. meandrina,RNA,cups in incubator,
+310,9:30,20241217,P. meandrina,RNA,cups in incubator,
+311,9:30,20241217,P. meandrina,RNA,cups in incubator,
+312,9:30,20241217,P. meandrina,RNA,cups in incubator,
+313,10:30,20241217,P. grandis,Zfix,cups in incubator,NA
+314,10:30,20241217,P. grandis,Zfix,cups in incubator,NA
+315,10:30,20241217,P. grandis,Zfix,cups in incubator,NA
+316,10:30,20241217,P. grandis,RNA,cups in incubator,
+317,10:30,20241217,P. grandis,RNA,cups in incubator,
+318,10:30,20241217,P. grandis,RNA,cups in incubator,
+319,10:30,20241217,P. grandis,RNA,cups in incubator,
+320,10:30,20241217,P. grandis,RNA,cups in incubator,
+321,10:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+322,10:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+323,10:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+324,10:30,20241217,P. meandrina,RNA,cups in incubator,
+325,10:30,20241217,P. meandrina,RNA,cups in incubator,
+326,10:30,20241217,P. meandrina,RNA,cups in incubator,
+327,10:30,20241217,P. meandrina,RNA,cups in incubator,
+328,10:30,20241217,P. meandrina,RNA,cups in incubator,
+329,11:30,20241217,P. grandis,Zfix,cups in incubator,NA
+330,11:30,20241217,P. grandis,Zfix,cups in incubator,NA
+331,11:30,20241217,P. grandis,Zfix,cups in incubator,NA
+332,11:30,20241217,P. grandis,RNA,cups in incubator,
+333,11:30,20241217,P. grandis,RNA,cups in incubator,
+334,11:30,20241217,P. grandis,RNA,cups in incubator,
+335,11:30,20241217,P. grandis,RNA,cups in incubator,
+336,11:30,20241217,P. grandis,RNA,cups in incubator,
+337,11:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+338,11:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+339,11:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+340,11:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+341,11:30,20241217,P. meandrina,RNA,cups in incubator,
+342,11:30,20241217,P. meandrina,RNA,cups in incubator,
+343,11:30,20241217,P. meandrina,RNA,cups in incubator,
+344,11:30,20241217,P. meandrina,RNA,cups in incubator,
+345,11:30,20241217,P. meandrina,RNA,cups in incubator,
+346,12:30,20241217,P. grandis,Zfix,cups in incubator,NA
+347,12:30,20241217,P. grandis,Zfix,cups in incubator,NA
+348,12:30,20241217,P. grandis,Zfix,cups in incubator,NA
+349,12:30,20241217,P. grandis,RNA,cups in incubator,
+350,12:30,20241217,P. grandis,RNA,cups in incubator,
+351,12:30,20241217,P. grandis,RNA,cups in incubator,
+352,12:30,20241217,P. grandis,RNA,cups in incubator,
+353,12:30,20241217,P. grandis,RNA,cups in incubator,
+354,12:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+355,12:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+356,12:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+357,12:30,20241217,P. meandrina,RNA,cups in incubator,
+358,12:30,20241217,P. meandrina,RNA,cups in incubator,
+359,12:30,20241217,P. meandrina,RNA,cups in incubator,
+360,12:30,20241217,P. meandrina,RNA,cups in incubator,
+361,12:30,20241217,P. meandrina,RNA,cups in incubator,
+362,13:30,20241217,P. grandis,Zfix,cups in incubator,NA
+363,13:30,20241217,P. grandis,Zfix,cups in incubator,NA
+364,13:30,20241217,P. grandis,Zfix,cups in incubator,NA
+365,13:30,20241217,P. grandis,RNA,cups in incubator,
+366,13:30,20241217,P. grandis,RNA,cups in incubator,
+367,13:30,20241217,P. grandis,RNA,cups in incubator,
+368,13:30,20241217,P. grandis,RNA,cups in incubator,
+369,13:30,20241217,P. grandis,RNA,cups in incubator,
+370,13:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+371,13:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+372,13:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+373,13:30,20241217,P. meandrina,RNA,cups in incubator,
+374,13:30,20241217,P. meandrina,RNA,cups in incubator,
+375,13:30,20241217,P. meandrina,RNA,cups in incubator,
+376,13:30,20241217,P. meandrina,RNA,cups in incubator,
+377,13:30,20241217,P. meandrina,RNA,cups in incubator,
+378,14:30,20241217,P. grandis,Zfix,cups in incubator,NA
+379,14:30,20241217,P. grandis,Zfix,cups in incubator,NA
+380,14:30,20241217,P. grandis,Zfix,cups in incubator,NA
+381,14:30,20241217,P. grandis,RNA,cups in incubator,
+382,14:30,20241217,P. grandis,RNA,cups in incubator,
+383,14:30,20241217,P. grandis,RNA,cups in incubator,
+384,14:30,20241217,P. grandis,RNA,cups in incubator,
+385,14:30,20241217,P. grandis,RNA,cups in incubator,
+386,14:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+387,14:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+388,14:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+389,14:30,20241217,P. meandrina,RNA,cups in incubator,
+390,14:30,20241217,P. meandrina,RNA,cups in incubator,
+391,14:30,20241217,P. meandrina,RNA,cups in incubator,
+392,14:30,20241217,P. meandrina,RNA,cups in incubator,
+393,14:30,20241217,P. meandrina,RNA,cups in incubator,
+394,15:30,20241217,P. grandis,Zfix,cups in incubator,NA
+395,15:30,20241217,P. grandis,Zfix,cups in incubator,NA
+396,15:30,20241217,P. grandis,Zfix,cups in incubator,NA
+397,15:30,20241217,P. grandis,RNA,cups in incubator,
+398,15:30,20241217,P. grandis,RNA,cups in incubator,
+399,15:30,20241217,P. grandis,RNA,cups in incubator,
+400,15:30,20241217,P. grandis,RNA,cups in incubator,
+401,15:30,20241217,P. grandis,RNA,cups in incubator,
+402,15:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+403,15:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+404,15:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+405,15:30,20241217,P. meandrina,RNA,cups in incubator,
+406,15:30,20241217,P. meandrina,RNA,cups in incubator,
+407,15:30,20241217,P. meandrina,RNA,cups in incubator,
+408,15:30,20241217,P. meandrina,RNA,cups in incubator,
+409,15:30,20241217,P. meandrina,RNA,cups in incubator,
+410,16:30,20241217,P. grandis,Zfix,cups in incubator,NA
+411,16:30,20241217,P. grandis,Zfix,cups in incubator,NA
+412,16:30,20241217,P. grandis,Zfix,cups in incubator,NA
+413,16:30,20241217,P. grandis,RNA,cups in incubator,
+414,16:30,20241217,P. grandis,RNA,cups in incubator,
+415,16:30,20241217,P. grandis,RNA,cups in incubator,
+416,16:30,20241217,P. grandis,RNA,cups in incubator,
+417,16:30,20241217,P. grandis,RNA,cups in incubator,
+418,16:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+419,16:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+420,16:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+421,16:30,20241217,P. meandrina,RNA,cups in incubator,
+422,16:30,20241217,P. meandrina,RNA,cups in incubator,
+423,16:30,20241217,P. meandrina,RNA,cups in incubator,
+424,16:30,20241217,P. meandrina,RNA,cups in incubator,
+425,16:30,20241217,P. meandrina,RNA,cups in incubator,
+426,17:30,20241217,P. grandis,Zfix,cups in incubator,NA
+427,17:30,20241217,P. grandis,Zfix,squarical,NA
+428,17:30,20241217,P. grandis,Zfix,squarical,NA
+429,17:30,20241217,P. grandis,RNA,cups in incubator,
+430,17:30,20241217,P. grandis,RNA,squarical,
+431,17:30,20241217,P. grandis,RNA,squarical,
+432,17:30,20241217,P. grandis,RNA,squarical,
+433,17:30,20241217,P. grandis,RNA,squarical,
+434,17:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+435,17:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+436,17:30,20241217,P. meandrina,Zfix,cups in incubator,NA
+437,17:30,20241217,P. meandrina,RNA,cups in incubator,
+438,17:30,20241217,P. meandrina,RNA,cups in incubator,
+439,17:30,20241217,P. meandrina,RNA,cups in incubator,
+440,17:30,20241217,P. meandrina,RNA,cups in incubator,
+441,17:30,20241217,P. meandrina,RNA,cups in incubator,
+442,17:30,20241217,P. grandis,Zfix,squarical,NA
+443,17:30,20241217,P. grandis,RNA,squarical,
+444,17:30,20241218,,Zfix,,
+445,17:30,20241218,,Zfix,,
+446,17:30,20241218,,Zfix,,
+447,17:30,20241218,,RNA,,
+448,17:30,20241218,,RNA,,
+449,17:30,20241218,,RNA,,
+450,17:30,20241218,,RNA,,
+451,17:30,20241218,,RNA,,
+452,17:30,20241218,,Zfix,,
+453,17:30,20241218,,Zfix,,
+454,17:30,20241218,,Zfix,,
+455,17:30,20241218,,RNA,,
+456,17:30,20241218,,RNA,,
+457,17:30,20241218,,RNA,,
+458,17:30,20241218,,RNA,,
+459,17:30,20241218,,RNA,,
+,,,,,,
+,,,,,,
